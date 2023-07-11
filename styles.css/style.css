@@ -1,0 +1,33 @@
+header {
+    display: flex;
+    background-color: #E554731A;
+}
+
+.header-title {
+    display: flex;
+    width: 708px;
+    flex-direction: column;
+    flex-shrink: 0;
+}
+
+.header-p1 {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+nav {
+    flex-direction: column;
+}
+
+.hbutton {
+    padding: 20px 43px;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 700;
+    border: 0;
+}
